@@ -1,5 +1,5 @@
-Introduction to Programming in Artificial Intelligence
-Welcome to the Introduction to Programming in Artificial Intelligence course! This course is designed to provide a foundational understanding of AI programming, covering both basic libraries and more advanced modeling tools. It aims to equip learners with the skills to effectively manipulate data, visualize results, and implement machine learning models.
+Introduction to the course "Advanced Programming Tools for AI" 
+Welcome to the "Advanced Programming Tools for AI"  course! This course is designed to provide a foundational understanding of AI programming, covering both basic libraries and more advanced modeling tools. It aims to equip learners with the skills to effectively manipulate data, visualize results, and implement machine learning models.
 
 Course Overview
 This course is divided into two main sections:
